@@ -1,1 +1,14 @@
-
+h1{
+  font-sixe:100px;
+  color:#B7E3c3;
+}
+ul.va li{
+  display:inline;
+  padding:10px;
+}
+ul.nav. li a{
+  display:block;
+  padding:10px;
+  background-color;#333
+}
+  
